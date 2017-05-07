@@ -6,6 +6,7 @@
 
 
 
+
 <?php   // start
 
 /*
@@ -17,7 +18,6 @@ script:风格
 <script>
 </script>
 
-设置网站主目录：
 在HTML中，嵌入PHP代码，的方法是在 <?php   ?>中填入PHP语句,  ；结束一条语句。
 */
 echo "Hello universial";
